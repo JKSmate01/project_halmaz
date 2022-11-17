@@ -1,0 +1,16 @@
+Adattípusok
+-int (egész számok)
+-float (tizedes törtek)
+-complex (komplex számok)
+-str (sztringek)
+-bool (logikai típus: True/False)
+-list (lista)
+-dict (szótár)
+-set (halmaz)
+
+Halmazok
+-egy elem csak egyszer
+-rendezetlen
+-többféle típust tárolhat, akár egyszerre is.
+-az elemeket nem lehet megváltoztatni
+-unió, metszet, külömbség
